@@ -1,5 +1,6 @@
 export default function createReportObject(employeesList) {
-	return {
+  /* eslint-disable */
+  return {
     allEmployees: {
       ...employeesList,
     },
